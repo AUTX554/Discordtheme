@@ -1,0 +1,16 @@
+/**
+ * @name Theme
+ * @author AUTX554
+ * @version Version V1.0.0
+ * @description This is a new theme for a test
+ *
+ * @website 
+ * @source https://github.com/AUTX554/Theme/Theme.css
+ 
+**/
+/*Source Theme*/
+@import url('https://AUTX554.github.io/Theme.css/main/Theme.css');
+/*Radial status*/
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+/*BD Addon Mini List by Disease#3749*/
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
